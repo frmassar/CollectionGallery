@@ -11,7 +11,7 @@ export default function Header() {
       <AppBar position="relative">
         <Toolbar>
           <Typography variant="h6">
-            SiteCore
+            Gallery
           </Typography>
         </Toolbar>
       </AppBar>
